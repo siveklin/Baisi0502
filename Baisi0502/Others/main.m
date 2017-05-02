@@ -1,0 +1,16 @@
+//
+//  main.m
+//  Baisi0502
+//
+//  Created by Qlinchao on 17/5/2.
+//  Copyright © 2017年 JAYA. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+#import "AppDelegate.h"
+
+int main(int argc, char * argv[]) {
+    @autoreleasepool {
+        return UIApplicationMain(argc, argv, nil, NSStringFromClass([AppDelegate class]));
+    }
+}
